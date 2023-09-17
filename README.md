@@ -5,7 +5,7 @@ Desde chico, desarrollé un interés en la informática gracias a la influencia 
 
  Motivado por las nuevas tecnologias empeze mis estudios aprendiendo lo que me gusta! Al principio empeze estudiando como autodidacta tomando cursos online como los que se encuentran en el canales de YT, para luego involucrarme al 100% y seguir formandome... Empeze tomando cursos en CoderHouse para luego entrar en el bootcamp de SoyHenry. Gracias a las herramientas que adquiri pude desarrollarme y fortalezer mis aptitudes como programador. 
 
- Ingresar a la academia de SoyHenry me planteo un desafio dificil muy grande... Que fue generar perseverancia y disciplina por la exigencia del trayecto. Me ayudo y pude afrontar cada etapa del bootcamp, fortaleciendo mis habilidades y superandome. Lograr terminar la formacion y concluir con el proyecto final termino de potenciarlas. También, tuve la ocasión de trabajar en conjunto con compañeros en diferentes proyectos en un entorno de trabajo normal.
+ Ingresar a la academia de SoyHenry me planteo un desafio dificil muy grande... Que fue generar perseverancia y disciplina por la exigencia del trayecto. Me ayudo y pude afrontar cada etapa del bootcamp, fortaleciendo mis habilidades y superandome. Pude lograr terminar la formacion y concluir con el proyecto final termino de potenciarlas. También, tuve la ocasión de trabajar en conjunto con compañeros en diferentes proyectos en un entorno de trabajo normal.
  
  Gracias a las herramientas que desarrolle puedo siempre crear soluciones innovadoras y continuar con mi aprendizaje constante en el mundo del desarrollo Full-Stack.</h3>
 
