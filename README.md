@@ -11,9 +11,9 @@ Tube la suerte de tener amigos que me impulsaron a estudiar desarrollo web, y do
 
 Agradecido con la gente que me motivo y facilito el proceso para poder continuar con mi aprendizaje constante en el mundo del desarrollo Full-Stack.</h3>
 
-<h2 align="right">- 💼 Portfolio [https://octavioquintero.vercel.app/](https://octavioquintero.vercel.app/)</h2>
+- 💼 Portfolio [https://octavioquintero.vercel.app/](https://octavioquintero.vercel.app/)
 
-<h2 align="right">- 📫 Mi contacto **octa.quinteroo@gmail.com**</h2>
+- 📫 Mi contacto **octa.quinteroo@gmail.com**
 
 <h2 align="left">⚡ Redes Sociales</h2>
 <p align="left">
