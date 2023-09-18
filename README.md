@@ -1,25 +1,26 @@
 <h1 align="center">Hola👋, Soy Octavio Quintero</h1>
-<h3 align="center">Desarrollador Full Stack.
+<h2 align="left">Desarrollador Full Stack.</h2>
 
-Desde chico, desarrollé un interés en la informática gracias a la influencia de mis padres. Tube la suerte de tener amigos que me impulsaron a estudiar desarrollo web, en donde tube oportunidad de explotar mi creatividad.
+<h3 align="left">
+Motivado por las nuevas tecnologias empeze mis estudios aprendiendo lo que me gusta! Al principio empeze estudiando como autodidacta tomando cursos online... Segui mi formacion en la academia de CoderHouse para luego entrar en el bootcamp de SoyHenry y gracias a las herramientas que adquiri pude desarrollarme y fortalezer mis aptitudes como programador.
 
- Motivado por las nuevas tecnologias empeze mis estudios aprendiendo lo que me gusta! Al principio empeze estudiando como autodidacta tomando cursos online como los que se encuentran en el canales de YT, para luego involucrarme al 100% y seguir formandome... Empeze tomando cursos en CoderHouse para luego entrar en el bootcamp de SoyHenry. Gracias a las herramientas que adquiri pude desarrollarme y fortalezer mis aptitudes como programador. 
+Tube la suerte de tener amigos que me impulsaron a estudiar desarrollo web, y donde pude acercarme ese vasto espacio de 11001001010. 
 
- Ingresar a la academia de SoyHenry me planteo un desafio dificil muy grande... Que fue generar perseverancia y disciplina por la exigencia del trayecto. Me ayudo y pude afrontar cada etapa del bootcamp, fortaleciendo mis habilidades y superandome. Pude lograr terminar la formacion y concluir con el proyecto final termino de potenciarlas. También, tuve la ocasión de trabajar en conjunto con compañeros en diferentes proyectos en un entorno de trabajo normal.
- 
- Gracias a las herramientas que desarrolle puedo siempre crear soluciones innovadoras y continuar con mi aprendizaje constante en el mundo del desarrollo Full-Stack.</h3>
+ El desafio general fue generar perseverancia y disciplina por la exigencia del trayecto. Me ayudo y pude afrontar cada etapa del bootcamp, perfeccionando mis habilidades y superandome. Logre terminar la formacion y concluir al fin! También, tuve oportunidad de trabajar en conjunto con compañeros en diferentes proyectos en un entorno de trabajo grupal.
+
+Agradecido con la gente que me motivo y facilito el proceso para poder continuar con mi aprendizaje constante en el mundo del desarrollo Full-Stack.</h3>
 
 - 💼 Portfolio [https://octavioquintero.vercel.app/](https://octavioquintero.vercel.app/)
 
 - 📫 Mi contacto **octa.quinteroo@gmail.com**
 
-<h3 align="left">Redes Sociales</h3>
+<h2 align="left">⚡ Redes Sociales</h2>
 <p align="left">
 <a href="https://linkedin.com/in/octavio-quintero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octavio-quintero" height="30" width="40" /></a>
 <a href="https://instagram.com/octa.quintero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="octa.quintero" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Herramientas</h3>
+<h3 align="left">🛠 Herramientas</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
