@@ -5,7 +5,7 @@
 Motivado por las nuevas tecnologias empeze mis estudios aprendiendo lo que me gusta! Al principio empeze estudiando como autodidacta tomando cursos online... Segui mi formacion en la academia de CoderHouse para luego entrar en el bootcamp de SoyHenry y gracias a las herramientas que adquiri pude desarrollarme y fortalezer mis aptitudes como programador.
 
 
-Tube la suerte de tener amigos que me impulsaron a estudiar desarrollo web, y donde pude acercarme ese vasto espacio de 11001001010. 
+Tube la suerte de tener amigos que me impulsaron a estudiar desarrollo web, y donde pude acercarme a ese vasto espacio de 11001001010. 
 
  El desafio general fue generar perseverancia y disciplina por la exigencia del trayecto. Me ayudo y pude afrontar cada etapa del bootcamp, perfeccionando mis habilidades y superandome. Logre terminar la formacion y concluir al fin! También, tuve oportunidad de trabajar en conjunto con compañeros en diferentes proyectos en un entorno de trabajo grupal.
 
