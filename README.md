@@ -1,8 +1,4 @@
-<p align="left">Hola!! Soy Octavio✨</p>
-
-###
-
-<p align="left">Full Stack Developer</p>
+<p align="left">Hola!! Soy Octavio✨ Full Stack Developer</p>
 
 ###
 
@@ -60,16 +56,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/octavio-quintero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="47" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/octa.quintero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="47" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/octavio.quintero.5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="47" alt="facebook logo"  />
   </a>
   <a href="3585106603" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="47" alt="whatsapp logo"  />
   </a>
 </div>
 
