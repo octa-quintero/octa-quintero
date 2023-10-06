@@ -9,7 +9,7 @@ Tube la suerte de tener amigos que me impulsaron a estudiar desarrollo web, y do
 
  El desafio general fue generar perseverancia y disciplina por la exigencia del trayecto. Me ayudo y pude afrontar cada etapa del bootcamp, perfeccionando mis habilidades y superandome. Logre terminar la formacion y concluir al fin! También, tuve oportunidad de trabajar en conjunto con compañeros en diferentes proyectos en un entorno de trabajo grupal.
 
-Agradecido con la gente que me motivo y facilito el proceso para poder continuar con mi aprendizaje constante en el mundo del desarrollo Full-Stack.</h3>
+Agradecido con la gente que me motivo y facilito el proceso para poder continuar con mi aprendizaje constante en el mundo del desarrollo Full-Stack...</h3>
 
 - 💼 Portfolio [https://octavioquintero.vercel.app/](https://octavioquintero.vercel.app/)
 
