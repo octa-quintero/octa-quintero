@@ -42,9 +42,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octa-quintero&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Top" height="150" alt="languages graph"  />
-</div>
+<p align="left">📨  octa.quinteroo@gmail.com<br>📞 +543585106603</p>
 
 ###
 
@@ -52,13 +50,26 @@
 
 ###
 
-<p align="left">📨  octa.quinteroo@gmail.com<br>📞 +543585106603</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octa-quintero&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Top Tecnologias" height="150" alt="languages graph"  />
+</div>
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/octavio-quintero/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/octa.quintero/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/octavio.quintero.5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
+  <a href="3585106603" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
