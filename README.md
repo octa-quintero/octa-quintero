@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Motivado por las nuevas tecnologias empecé mis estudios aprendiendo lo que me gusta! Al principio empecé estudiando como autodidacta tomando cursos online... Seguí mi formación en la academia de CoderHouse para luego entrar en el bootcamp de SoyHenry. Gracias a las herramientas que adquirí pude desarrollarme y fortalecer mis aptitudes como programador.<br><br>Tuve la suerte de tener amigos que me impulsaron a estudiar desarrollo web donde pude acercarme a ese vasto espacio de 11001001010. <br><br>Uno de mis desafíos personales fue generar perseverancia y disciplina por la exigencia del trayecto y de esa manera pude afrontar cada etapa del bootcamp, perfeccionando mis habilidades. Logré terminar la formación y concluir.</p>
+<p align="left">Motivado por las nuevas tecnologias empecé mis estudios aprendiendo lo que me gusta! Al principio empecé estudiando como autodidacta tomando cursos online... Seguí mi formación en la academia de CoderHouse para luego entrar en el bootcamp de SoyHenry. Gracias a las herramientas que adquirí pude desarrollarme y fortalecer mis aptitudes como programador.<br><br>Tuve la suerte de tener amigos que me impulsaron a estudiar desarrollo web donde pude acercarme a ese vasto espacio de 11001001010..<br><br>Uno de mis desafíos personales fue generar perseverancia y disciplina por la exigencia del trayecto y de esa manera pude afrontar cada etapa del bootcamp, perfeccionando mis habilidades. Logré terminar la formación y concluir.</p>
 
 ###
 
