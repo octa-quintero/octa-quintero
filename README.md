@@ -1,4 +1,4 @@
-<p align="left">Hola!! Soy Octavio. Full Stack Developer✨</p>
+<h1 align="left">Hola!! Soy Octavio✨</h1>
 
 ###
 
