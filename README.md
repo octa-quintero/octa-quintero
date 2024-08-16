@@ -1,13 +1,16 @@
-<h1 align="left">Hola!! Soy Octavio✨</h1>
+<h1 align="center">Hola!! Soy Octavio✨</h1>
 
 ###
-
-<p align="left">Actualmente, me estoy desarrollando como programador FullStack en proyectos independientes, donde implemento mi capacidad para crear aplicaciones web completas, desde la conceptualización hasta la ejecución. Encontrar soluciones a posibles problemas tanto en el frontend como en el backend me ha permitido comprender el ciclo de vida de una aplicación web, convirtiéndome en un desarrollador versátil.</p>
+<p align="center">
+  <img src="./Untitled.png" alt="Descripción de la imagen" width="auto">
+</p>
+<h3 align="left">Actualmente, me estoy desarrollando como programador FullStack en proyectos independientes, donde implemento mi capacidad para crear aplicaciones web completas, desde la conceptualización hasta la ejecución. Encontrar soluciones a posibles problemas tanto en el frontend como en el backend me ha permitido comprender el ciclo de vida de una aplicación web, convirtiéndome en un desarrollador versátil.</h3>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -48,25 +51,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octa-quintero&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Top" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/octavio-quintero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/octa.quintero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/octavio.quintero.5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="facebook logo"  />
-  </a>
-  <a href="3585106603" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
