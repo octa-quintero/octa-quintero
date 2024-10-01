@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">📨  octa.quinteroo@gmail.com<br>📞 +543585106603</h3>
+<h4 align="left">📨  octa.quinteroo@gmail.com<br>📞 +543585106603</h4>
 
 ###
 
