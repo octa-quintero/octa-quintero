@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="110" src="https://media.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif"  />
+<img align="right" height="50" src="https://media.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif"  />
 
 ###
 
