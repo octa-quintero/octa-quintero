@@ -29,12 +29,12 @@
 
 ###
 
-<img align="right" height="50" src="https://media.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif"  />
+<img align="right" height="100" src="https://media.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octa-quintero&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Top" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octa-quintero&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Top" height="150" alt="languages graph"  />
 </div>
 
 ###
