@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=octa-quintero&show_icons=true&theme=aura&hide_border=true&locale=es" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=octa-quintero&show_icons=true&theme=aura&hide_border=true" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=octa-quintero&layout=compact&theme=aura&hide_border=true" height="150"/>
 </div>
 
