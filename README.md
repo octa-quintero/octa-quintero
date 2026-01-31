@@ -37,7 +37,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=octa-quintero&locale=es&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&custom_title=Top" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=octa-quintero&show_icons=true&theme=aura&hide_border=true&locale=es" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=octa-quintero&layout=compact&theme=aura&hide_border=true" height="150"/>
 </div>
 
 ###
