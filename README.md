@@ -34,6 +34,6 @@
 
 ###
 
-![Octavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Octavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=octa-quintero&show_icons=true&theme=tokyonight)
 
 ###
