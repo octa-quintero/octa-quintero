@@ -34,6 +34,12 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=octa-quintero&theme=dark&hide_border=true&border_radius=30&locale=it&exclude_days=Sun%2CSat&card_width=503&card_height=196)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octa-quintero&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octa-quintero&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=octa-quintero&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=octa-quintero&theme=radical&no-frame=true&margin-w=8&row=1)
 
 ###
