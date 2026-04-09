@@ -34,6 +34,6 @@
 
 ###
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tocta-quintero&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=octa-quintero&theme=dark&hide_border=true&border_radius=30&locale=it&exclude_days=Sun%2CSat&card_width=503&card_height=196)](https://git.io/streak-stats)
 
 ###
