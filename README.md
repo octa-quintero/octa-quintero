@@ -34,6 +34,6 @@
 
 ###
 
-![Octavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=octa-quintero&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tocta-quintero&theme=tokyonight)
 
 ###
