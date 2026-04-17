@@ -36,7 +36,7 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif"  />
 
 ###
 
