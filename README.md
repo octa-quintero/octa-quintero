@@ -32,7 +32,7 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-<h4 align="left">📨  octa.quinteroo@gmail.com<br>📞 +543585106603</h4>
+<h4 align="left">📨  octa.quinteroo@gmail.com<br>📞 +393445549403</h4>
 
 ###
 
