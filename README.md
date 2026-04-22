@@ -27,7 +27,7 @@ Soy desarrollador FullStack enfocado en solucionar problemas, donde diseño y co
 </h4>
 
 <h4 align="left">
-Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto e costruisco applicazioni dall'inizio alla fine. Risolvere problemi sia nel frontend che nel backend mi ha dato una visione completa del ciclo di vita del software, rendendomi uno sviluppatore versatile e orientato ai risultati.
+Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto e costruisco applicazioni dall'inizio alla fine. Risolvere problemi sia nel frontend che nel backend mi ha dato una visione completa del ciclo di vita del software, rendendomi uno sviluppatore versatile e orientato ai risultati...
 </h4>
 
 ###
