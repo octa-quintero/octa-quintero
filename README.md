@@ -40,7 +40,7 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=octa-quintero&theme=one-dark-pro&hide_border=true&border_radius=7.3&short_numbers=true&card_height=180)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=octa-quintero&theme=aura&hide_border=true&border_radius=7.3&short_numbers=true&card_height=180)](https://git.io/streak-stats)
 
 
 ###
