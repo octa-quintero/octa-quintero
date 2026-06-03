@@ -40,6 +40,6 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-![Mis Métricas](https://metrics.lecoq.io/octa-quintero)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=octa-quintero&theme=dark)](https://git.io/streak-stats)
 
 ###
