@@ -40,6 +40,6 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-[![Tus Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=octa-quintero&theme=radial)](https://github.com/ryo-ma/github-profile-trophy)
+![Mis Métricas](https://metrics.lecoq.io/octa-quintero)
 
 ###
