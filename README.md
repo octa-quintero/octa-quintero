@@ -40,6 +40,6 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=octa-quintero&theme=kanagawa-paper)](https://git.io/streak-stats)
+
 
 ###
