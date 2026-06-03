@@ -40,6 +40,6 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-![Mis Lenguajes Más Usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=octa-quintero&layout=compact&theme=radial)
+[![Tus Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=octa-quintero&theme=radial)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
