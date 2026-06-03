@@ -40,6 +40,6 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=octa-quintero&show_icons=true&theme=radial)
+![Mis Estadísticas de GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=octa-quintero&show_icons=true&theme=radial)
 
 ###
