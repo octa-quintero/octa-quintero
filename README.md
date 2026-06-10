@@ -40,6 +40,6 @@ Sono uno sviluppatore FullStack focalizzato in risolvere problemi, dove progetto
 
 ###
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=octa-quintero&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
 ###
