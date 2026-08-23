@@ -23,7 +23,7 @@
 ###
 
 <h4 align="left">
-Soy desarrollador FullStack enfocado en solucionar problemas, donde diseño y construyo aplicaciones end-to-end. La resolución de problemas tanto en el frontend como en el backend me ha dado una visión completa del ciclo de vida del software, convirtiéndome en un desarrollador versátil y orientado a resultados.
+Soy desarrollador FullStack enfocado en solucionar problemas, donde diseño y construyo aplicaciones end-to-end. La resolución de problemas tanto en el frontend como en el backend me ha dado una visión completa del ciclo de vida del software, convirtiéndome en un desarrollador versátil y orientado a resultados...
 </h4>
 
 <h4 align="left">
